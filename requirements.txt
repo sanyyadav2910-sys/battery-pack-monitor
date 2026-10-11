@@ -3,3 +3,4 @@ paho-mqtt>=2.0
 pandas
 numpy
 python-dotenv
+plotly
